@@ -1,6 +1,12 @@
 {
   "name": "StarterApp",
   "version": "0.0.1",
+  "description": "React Native starter app",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:filipecorrea/react-native.git"
+  },
   "private": true,
   "scripts": {
     "start": "react-native start"
